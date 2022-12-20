@@ -1,4 +1,9 @@
 Hii..This is Aishwarya.
 Developer 2 has changed in a file.
+<<<<<<< HEAD
 I had to be one 
 one would be i
+=======
+We are in a face that there is a2
+Lets see what happen2
+>>>>>>> 397ecc3626adeb879f2e179d5c934f2f93b91687
